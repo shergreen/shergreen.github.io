@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-    -title: "Data and Code"
+  - title: "Data and Code"
     url: /data/
 
   - title: "Cosmology Lectures"
