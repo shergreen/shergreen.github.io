@@ -11,3 +11,5 @@ redirect_from:
 {% include base_path %}
 
 Check back soon!
+
+[//]: # (add links to arXiv and ADS)
