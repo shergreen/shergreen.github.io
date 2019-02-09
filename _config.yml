@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Sheridan B. Green"
+  avatar           : "profile.jpg"
+  bio              : "Physics Ph.D. Student at Yale University working in computational astrophysics."
+  location         : "New Haven, CT"
+  employer         : "Yale University"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=kHqOwb4AAAAJ"
+  email            : "sheridan.green@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
