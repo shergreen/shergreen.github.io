@@ -3,6 +3,12 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
+  - title: "Research"
+    url: /research/
+
+    -title: "Data and Code"
+    url: /data/
+
   - title: "Cosmology Lectures"
     url: /cosmology-lectures/
 
