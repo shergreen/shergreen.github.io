@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
+  - title: "Cosmology Lectures"
+    url: /cosmology-lectures/
+
   - title: "Theory Seminar"
     url: /theory-seminar/
     
