@@ -10,17 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-In the fall semester of 2018, Kimmy Cushman and I started a theoretical/computation/statistical methods in physics seminar for graduate students. I'll try to add resources from this series as they are generated.
+In the summer of 2018, I helped organize a lecture series on topics not ordinarily covered in an introductory cosmology course but generally relevant to research in cosmology and galaxy evolution. The syllabus is listed below, with links to the accompanying lecture notes. We plan to incorporate special topics lectures eventually, with an emphasis on applications of data science to cosmology.
 
-Seminar Topics
-===
-1. [Lie Algebra Representation Theory (Rajeev Erramilli)](/files/theory-seminar/lie-algebra-representations.pdf)
-2. [Clustering Algorithms (Kimmy Cushman)](/files/theory-seminar/clustering.pdf)
-3. [Topological Data Analysis: Persistent Homology (Sheridan Green)](/files/theory-seminar/persistent-homology.pdf)
-4. [Random Matrix Theory (Pavel Kurilovich)](/files/theory-seminar/random-matrix-theory.pdf)
-5. [Numerical Stability (Paul Fanto)](/files/theory-seminar/numerical-stability.pdf)
-6. Vector Bundles (Judith Hoeller)
-7. [Monte Carlo Methods (Sohan Vartak)])/files/theory-seminar/mc-methods.pdf)
-8. [Dirac Brackets (Jingping Li)](/files/theory-seminar/dirac-brackets.pdf)
-9. [Generative Choreography using RNNs and GANs (Mariel Pettee)](https://docs.google.com/presentation/d/1HIbvO-Pcs1rOnf9ptUgvzlQ-adBqlTMdG5i0vUyNkJw/edit?usp=sharing)
-10. Large Deviation Theory (Danny Seara)
+1. Spherical Collapse Model
+2. Perturbation Theory
+3. Halo Mass Functions (Press-Schechter)
+4. Extended Press-Schechter and Halo Bias
+5. Halo Model & Correlation Functions
+6. Gravitational Lensing
+7. Baryon Acoustic Oscillations
+8. Gravitational Waves
+9. Thermal and Kinetic Sunyaev-Zel'dovich Effects
+10. Applications of Neural Networks to Galaxy Evolution
