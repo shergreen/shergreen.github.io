@@ -4,7 +4,7 @@ permalink: /theory-seminar/
 title: "Theory Seminar"
 author_profile: true
 redirect_from: 
-  - /theory-seminar/
+  - /theory-seminar
   - /theory-seminar.html
 ---
 
