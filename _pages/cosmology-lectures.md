@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /theory-seminar/
+permalink: /cosmology-lectures/
 title: "Theory Seminar"
 author_profile: true
 redirect_from: 
-  - /theory-seminar
-  - /theory-seminar.html
+  - /cosmology-lectures
+  - /cosmology-lectures.html
 ---
 
 {% include base_path %}
