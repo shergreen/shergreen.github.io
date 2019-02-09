@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-DASH database: https://cosmo.oca.eu/dash/
+DASH database: <https://cosmo.oca.eu/dash/>
 
 To be added soon: *Magneticum* mock cluster catalog and trained random forest model for predicting X-ray cluster masses.
