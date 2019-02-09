@@ -12,7 +12,7 @@ In the fall semester of 2018, Kimmy Cushman and I started a theoretical/computat
 
 Seminar Topics
 ===
-1. [Lie Algebra Representation Theory (Rajeev Erramilli)]
+1. [Lie Algebra Representation Theory (Rajeev Erramilli)](/files/theory-seminar/lie-algebra-representations.pdf)
 2. [Clustering Algorithms (Kimmy Cushman)]
 3. [Topological Data Analysis: Persistent Homology (Sheridan Green)]
 4. [Random Matrix Theory (Pavel Kurilovich)]
