@@ -24,4 +24,5 @@ Seminar Topics
 8. [Dirac Brackets (Jingping Li)](/files/theory-seminar/dirac-brackets.pdf)
 9. [Generative Choreography using RNNs and GANs (Mariel Pettee)](https://docs.google.com/presentation/d/1HIbvO-Pcs1rOnf9ptUgvzlQ-adBqlTMdG5i0vUyNkJw/edit?usp=sharing)
 10. [Large Deviation Theory (Danny Seara)](/files/theory-seminar/large-deviations.pdf)
-11. Self-consistent mean-field theory (Paul Fanto)
+11. [Self-consistent mean-field theory (Paul Fanto)](/files/theory-seminar/scmf.pdf)
+12. Homology, cohomology, and obstructions to exactness (Joe Sullivan)
