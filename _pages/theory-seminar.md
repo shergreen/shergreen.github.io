@@ -26,3 +26,5 @@ Seminar Topics
 10. [Large Deviation Theory (Danny Seara)](/files/theory-seminar/large-deviations.pdf)
 11. [Self-consistent mean-field theory (Paul Fanto)](/files/theory-seminar/scmf.pdf)
 12. Homology, cohomology, and obstructions to exactness (Joe Sullivan)
+13. Rethinking LHC Data with Machine Learning (Savannah Thais)
+14. Introduction to Random Forest Regression (Sheridan Green)
