@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-In the fall semester of 2018, Kimmy Cushman and I started a theoretical/computation/statistical methods in physics seminar for graduate students. I'll try to add resources from this series as they are generated.
+In the fall semester of 2018, Kimmy Cushman and I started a theoretical/computation/statistical methods in physics seminar for graduate students. I've added resources from the talks in this series below.
 
 Seminar Topics
 ===
