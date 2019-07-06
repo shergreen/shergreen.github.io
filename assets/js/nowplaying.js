@@ -45,7 +45,7 @@ var getSetLastFM = function () {
             $("a#tracktitle").html(
                 "<img src='https://i.imgur.com/EgWjJry.png'>" + "No Track Playing"
             );
-            $("img#trackart").attr("src", "{{ base_path }}/images/touch-icon-228.png");
+            $("img#trackart").attr("src", "/images/touch-icon-228.png");
             var artistFormatted =
                 "<img src='https://i.imgur.com/fae5XZA.png'>No Artist";
             $("a#trackartist")
