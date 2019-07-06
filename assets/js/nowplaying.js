@@ -43,14 +43,14 @@ var getSetLastFM = function () {
         },
         error: function (resp) {
             $("a#tracktitle").html(
-                "<img src='https://i.imgur.com/EgWjJry.png'>" + "Silence!"
+                "<img src='https://i.imgur.com/EgWjJry.png'>" + "No Track Playing"
             );
-            $("img#trackart").attr("src", "https://i.imgur.com/Q6cCswP.jpg");
+            $("img#trackart").attr("src", "https://en.wikipedia.org/wiki/Last.fm#/media/File:Last.fm_icon.png");
             var artistFormatted =
-                "<img src='https://i.imgur.com/fae5XZA.png'>Prashant Shrestha";
+                "<img src='https://i.imgur.com/fae5XZA.png'>No Artist";
             $("a#trackartist")
                 .html(artistFormatted)
-                .attr("href", "www.prashant.me/");
+                .attr("href", "");
         }
     });
 };
