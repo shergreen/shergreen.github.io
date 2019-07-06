@@ -18,9 +18,9 @@ $globalBorderRadius: 3px;
   border-bottom-left-radius: $radius;
 }
 
-body {
-  padding: 0;
-  margin: 0;
+// body {
+//   padding: 0;
+//   margin: 0;
 
   .nowplayingcard {
     width: 20%;
@@ -96,4 +96,4 @@ body {
       }
     }
   }
-}
+// }
