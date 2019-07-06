@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin: 0; }
   body .nowplayingcard {
-    width: 20%;
+    width: 100%;
     margin: 0 auto;
     margin-top: 3%;
     font-family: "Source Sans Pro", sans-serif;
