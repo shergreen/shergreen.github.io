@@ -3,13 +3,13 @@
   padding: 0;
   margin: 0; }*/
   body .nowplayingcard {
-    width: 20%;
+    width: 50%;
     margin: 0 auto;
     margin-top: 3%;
     font-family: "Source Sans Pro", sans-serif;
     font-size: 12px; }
     body .nowplayingcard .nowplayingcontainer-inner {
-      width: 120%;
+      width: 100%;
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
       transition: 0.3s;
       display: inline-block;
