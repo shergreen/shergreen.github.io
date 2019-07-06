@@ -14,16 +14,6 @@ My publication record is available on the [arXiv](https://arxiv.org/a/green_s_2.
 
 In addition to research, I also work as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I facilitate teaching workshops and provide classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
 
-<div class="nowplayingcard">
-  <div class="nowplayingcontainer-inner">
-    <img id="trackart" src="#">
-    <div class="trackInfo">
-      <a id="tracktitle"></a>
-      <a href="#" id="trackartist"></a>
-    </div>
-  </div>
-</div>
-
 
 [//]: # (TODO: discuss what I used to work on in undergrad, add teaching, etc.)
 [//]: # (add arXiv and ADS links to front page...)
