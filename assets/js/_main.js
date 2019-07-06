@@ -41,6 +41,7 @@ $(document).ready(function(){
       // unfix
       Stickyfill.stop();
       $(".author__urls").hide();
+      $(".nowplayingcard").hide();
     }
   };
 
