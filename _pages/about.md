@@ -14,6 +14,7 @@ My publication record is available on the [arXiv](https://arxiv.org/a/green_s_2.
 
 In addition to research, I also work as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I facilitate teaching workshops and provide classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
 
+Aside from my academic work, I spend much of my time listening to and playing music. I'm currently (re-)learning how to play the piano, and I'm really interested in analog music synthesis. These days, you can usually find me listening to some form of downtempo electronica.
 <div class="nowplayingcard">
   <div class="nowplayingcontainer-inner">
     <img id="trackart" src="#">
