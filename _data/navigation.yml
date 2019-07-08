@@ -17,6 +17,9 @@ main:
 
   - title: "Theory Seminar"
     url: /theory-seminar/
+
+  - title: "Personal"
+    usl: /personal/
     
     #  - title: "Publications"
     #url: /publications/
