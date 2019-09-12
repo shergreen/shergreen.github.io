@@ -14,7 +14,7 @@ My publication record is available on the [arXiv](https://arxiv.org/a/green_s_2.
 
 In addition to research, I also work as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I facilitate teaching workshops and provide classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
 
-My career interests lean towards quantitative research in the finance sector, although I am also generally interested in exploring mathematical/statistical/data-driven research career opportunities. Currently taking some courses on advanced statistical inference techniques, database systems, and financial engineering/risk management. I'm seeking internships for the upcoming summer of 2020.
+My career interests lean towards quantitative research in the finance sector, although I am also generally interested in exploring mathematical/statistical/data-driven research career opportunities. Currently taking some courses on time series data analysis and SQL database systems. I'm seeking internships for the upcoming summer of 2020.
 
 Aside from my academic work, I spend much of my time listening to and playing music. I'm currently (re-)learning how to play the piano, and I'm really interested in analog music synthesis. These days, you can usually catch me listening to some form of downtempo electronica. Below is my most recently played track:
 <div class="nowplayingcard">
