@@ -10,12 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-On this page, I plan to provide access to various codes that I have used throughout my research. I aim to release two different types of code: (i) tools that may be of use to others in their own work, and (ii) scripts, Jupyter notebooks, etc. used to generate my results, in the interest of scientific reproducibility.
+On this page, I plan to provide access to various codes that I have used throughout my research. I aim to release two different types of code: (i) tools that may be of use to others in their own work and (ii) scripts, Jupyter notebooks, etc. used to generate my results, in the interest of scientific reproducibility.
 
 I'm making an active effort to build [GitHub repositories](https://github.com/shergreen) for my various projects.
 
 Tools:
-[*nbodipy*: An NFW N-body simulation initial condition generator](https://github.com/shergreen/nbodipy)
+* [**nbodipy**: An NFW N-body simulation initial condition generator](https://github.com/shergreen/nbodipy)
 
 Databases:
 
