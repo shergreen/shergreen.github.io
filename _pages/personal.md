@@ -10,10 +10,16 @@ redirect_from:
 
 {% include base_path %}
 
-My website is still under construction, but I plan to eventually put some photography (mostly of my cats) and music here...
+Below are some various things outside the sphere of astrophysics that make me happy.
+
+I'm the proud owner of two sweet little cats, Olive and Monroe:
 
 ![Olive Green-Groulx](/images/olive.jpg)
 ![Monroe Green-Groulx](/images/monroe.jpg)
+
+I live in New Haven with my lovely wife, April:
+
+![Me and April](/images/us.jpg)
 
 Nostalgia draws me to spend some of my free time playing an old early-2000s medieval MMORPG called RuneScape:
 
