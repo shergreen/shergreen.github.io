@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 My website is still under construction, but I plan to eventually put some photography (mostly of my cats) and music here...
+
+![Olive Green-Groulx](olive.jpg)
