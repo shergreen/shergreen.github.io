@@ -20,6 +20,9 @@ main:
 
   - title: "Personal"
     url: /personal/
+
+  - title: "Blog"
+    url: https://medium.com/@shergreen
     
     #  - title: "Publications"
     #url: /publications/
