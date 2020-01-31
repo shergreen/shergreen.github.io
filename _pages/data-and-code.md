@@ -24,6 +24,8 @@ The [DASH database of subhalo evolution](https://cosmo.oca.eu/dash/), released i
 
 ### Reproducibility:
 
+I have put the code and data up on GitHub for some of my older projects, and I plan to focus on being more systematic on current and future projects so that all necessary materials for reproducing my published results are make publicly available.
+
 To be added soon: Analysis notebooks used to generate results of evolved subhalo density profiles discussed in [Green et al. (2019a)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz2767/5580653?guestAccessKey=0023e643-03a5-4b95-bdab-5f6daaab56f1).
 
-To be added soon: *Magneticum* mock cluster catalog and trained random forest model for predicting X-ray cluster masses, in addition to the Jupyter notebook used to generate results in [Green et al. (2019b)](https://doi.org/10.3847/1538-4357/ab426f).
+Codes used for generating a trained random forest model for predicting mock *Magneticum* X-ray cluster masses and the Jupyter notebooks used to generate results and figures in [Green et al. (2019b)](https://doi.org/10.3847/1538-4357/ab426f): [GitHub Repository](https://github.com/shergreen/xray-mass-estimation/)
