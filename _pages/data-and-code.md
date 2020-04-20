@@ -15,6 +15,7 @@ On this page, I plan to provide access to various codes that I have used through
 I'm making an active effort to build [GitHub repositories](https://github.com/shergreen) for my various projects.
 
 ### Tools:
+* [**SatGen**](https://github.com/shergreen/SatGen): A semi-analytical satellite galaxy and dark matter halo generator
 * [**nbodipy**](https://github.com/shergreen/nbodipy): An NFW N-body simulation initial condition generator
 * [**pyPPCA**](https://github.com/shergreen/pyppca): A Python module for probabilistic principle component analysis, a robust method for imputing missing data based on the inferred principle components
 
