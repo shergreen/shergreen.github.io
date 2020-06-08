@@ -12,7 +12,7 @@ I'm a Physics Ph.D. student and NSF Graduate Research Fellow at [Yale University
 
 My publication record is available on the [arXiv](https://arxiv.org/a/green_s_2.html) and the [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9100-6237&sort=date+desc). I have lead and collaborated on multiple papers that apply machine learning and topological data analysis to problems in cosmology.
 
-In addition to research, I also work as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I facilitate teaching workshops and provide classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
+In addition to research, I haved worked as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I have facilitated teaching workshops and provided classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
 
 My career interests lean towards quantitative research in the financial services industry, although I am also generally interested in exploring mathematical/statistical/data-driven research career opportunities across the industry, government, and academic sectors. Currently self-studying quantitative finance (guided via Quantopian) and completing the Harvard Business School Online CORe pre-MBA program.
 
