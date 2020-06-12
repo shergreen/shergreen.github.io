@@ -27,7 +27,7 @@ The [DASH database of subhalo evolution](https://cosmo.oca.eu/dash/), released i
 
 I have put the code and data up on GitHub for some of my older projects, and I plan to focus on being more systematic on current and future projects so that all necessary materials for reproducing my published results are make publicly available.
 
-Analysis notebooks, FORTRAN codes, and any relevant shell scripts used to generate results of non-thermal pressure evolution on the $$Y_\mathrm{SZ}-M$$ relation in Green et al. (2020): [GitHub Repository](https://github.com/shergreen/nonthermal_pressure_paper1)
+Analysis notebooks, FORTRAN codes, and Python scripts used to generate results of non-thermal pressure evolution on the $$Y_\mathrm{SZ}-M$$ relation in Green et al. (2020): [GitHub Repository](https://github.com/shergreen/nonthermal_pressure_paper1)
 
 Analysis notebooks used to generate results of evolved subhalo density profiles discussed in [Green et al. (2019a)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz2767/5580653?guestAccessKey=0023e643-03a5-4b95-bdab-5f6daaab56f1): [GitHub Repository](https://github.com/shergreen/subhalo-profile-fitting)
 
