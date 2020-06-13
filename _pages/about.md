@@ -14,7 +14,7 @@ My publication record is available on the [arXiv](https://arxiv.org/a/green_s_2.
 
 In addition to research, I haved worked as a McDougal Teaching Fellow at the Yale Center for Teaching and Learning, where I have facilitated teaching workshops and provided classroom observations as part of the Graduate and Postdoctoral Teaching Development program.
 
-My career interests lean towards quantitative research in the financial services industry, although I am also generally interested in exploring mathematical/statistical/data-driven research career opportunities across the industry, government, and academic sectors. Currently self-studying quantitative finance (guided via Quantopian) and completing the Harvard Business School Online CORe pre-MBA program.
+My career interests lean towards quantitative research in the financial services industry, although I am also generally interested in exploring mathematical/statistical/data-driven research career opportunities across the industry, government, and academic sectors. Currently studying quantitative finance and algorithmic trading.
 
 Aside from my academic work, I spend much of my time listening to and playing music. I'm currently (re-)learning how to play the piano, and I'm really interested in analog music synthesis. These days, you can usually catch me listening to some form of downtempo electronica, classical, or metal. Below is my most recently played track:
 <div class="nowplayingcard">
