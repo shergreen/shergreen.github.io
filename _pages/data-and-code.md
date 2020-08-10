@@ -32,3 +32,7 @@ Analysis notebooks, FORTRAN codes, and Python scripts used to generate results o
 Analysis notebooks used to generate results of evolved subhalo density profiles discussed in [Green et al. (2019a)](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz2767/5580653?guestAccessKey=0023e643-03a5-4b95-bdab-5f6daaab56f1): [GitHub Repository](https://github.com/shergreen/subhalo-profile-fitting)
 
 Codes used for generating a trained random forest model for predicting mock *Magneticum* X-ray cluster masses and the Jupyter notebooks used to generate results and figures in [Green et al. (2019b)](https://doi.org/10.3847/1538-4357/ab426f): [GitHub Repository](https://github.com/shergreen/xray-mass-estimation/)
+
+### Side Projects:
+
+I'm working with text data from the r/wallstreetbets subreddit to do some sentiment analysis on stock prices. Here is my working [GitHub Repository](https://github.com/shergreen/wallstreetbets_sentiment_analysis/).
