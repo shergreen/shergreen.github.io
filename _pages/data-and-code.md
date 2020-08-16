@@ -35,4 +35,6 @@ Codes used for generating a trained random forest model for predicting mock *Mag
 
 ### Side Projects:
 
+I've been exploring some additional ML/AI/NLP projects using Kaggle. Check out my [Kaggle user profile](https://www.kaggle.com/shergreen).
+
 I'm working with text data from the r/wallstreetbets subreddit to do some sentiment analysis on stock prices. Here is my working [GitHub Repository](https://github.com/shergreen/wallstreetbets_sentiment_analysis/).
