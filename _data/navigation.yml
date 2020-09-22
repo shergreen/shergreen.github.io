@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV.pdf
-
   - title: "Résumé"
     url: /files/resume.pdf
+
+  - title: "CV"
+    url: /files/CV.pdf
 
     #  - title: "Research"
     #url: /research/
