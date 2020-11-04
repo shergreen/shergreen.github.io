@@ -3,8 +3,8 @@ main:
   - title: "Résumé"
     url: /files/resume.pdf
 
-  - title: "Academic CV"
-    url: /files/CV.pdf
+    #  - title: "Academic CV"
+    #url: /files/CV.pdf
 
     #  - title: "Research"
     #url: /research/

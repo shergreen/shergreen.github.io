@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sheridan B. Green"
   avatar           : "profile.jpg"
-  bio              : "Physics Ph.D. Candidate at Yale University working in computational astrophysics and interested in careers in quantitative research."
+  bio              : "Physics Ph.D. Candidate at Yale University working in computational astrophysics and pursuing a career in quantitative research."
   location         : "New Haven, CT"
   employer         : "Yale University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=kHqOwb4AAAAJ"
-  email            : "sheridan.green@yale.edu"
+  email            : "me@sheridan.green"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
